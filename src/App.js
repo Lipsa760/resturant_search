@@ -21,7 +21,7 @@ function App() {
     <>
       <Navbar />
 
-      <div className="container mt-[25%] md:mt-[15%]  w-screen flex justify-center">
+      <div className="container mt-[10%] md:mt-[10%]  w-screen flex justify-center">
         <div className="flex justify-between w-[95%]  pl-10 pr-6">
           <input
             type="text"
